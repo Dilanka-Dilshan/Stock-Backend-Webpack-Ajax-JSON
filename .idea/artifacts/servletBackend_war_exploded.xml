@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="servletBackend:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/servletBackend_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="servletBackend" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.21" />
+          <element id="library" level="project" name="commons-dbcp2-2.8.0-javadoc" />
+          <element id="library" level="project" name="jakarta.json.bind-api-2.0.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="servletBackend/web/Web" />
+    </root>
+  </artifact>
+</component>

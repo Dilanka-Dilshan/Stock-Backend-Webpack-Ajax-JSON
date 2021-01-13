@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-dbcp2-2.8.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.8.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.9.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
